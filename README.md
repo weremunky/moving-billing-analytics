@@ -1,5 +1,5 @@
 # Moving Billing & Profitability Analytics
-A SQL database and analysis toolkit for a moving company. It turns spreadsheet billing (jobs, crew hours, job costs) into a relational database, catches billing errors before invoices go out, and shows which jobs actually make money per crew hour. Built around my real work as a Business Analyst / Project Coordinator, with a Tableau dashboard for the owner.
+A SQL database and analysis toolkit for a moving company. It turns spreadsheet billing (jobs, crew hours, job costs) into a relational database, catches billing errors before invoices go out, and shows which jobs actually make money per crew hour. Built around my real work as a Business Analyst / Project Coordinator, with Tableau-ready exports for a monthly dashboard.
 ---
 ## What This Does
 At work, I track billing for 12-25 moving jobs a week across three Excel sheets: jobs, crew hours, and job costs (truck rental, equipment). That setup let mistakes slip through. I once caught a truck rental entered twice on a multi-day job, and there was no easy way to check how often that happens.
