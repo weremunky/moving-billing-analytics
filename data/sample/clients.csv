@@ -1,0 +1,801 @@
+client_id,client_type,city
+C001,commercial,San Diego
+C002,commercial,San Diego
+C003,commercial,Carlsbad
+C004,commercial,Escondido
+C005,commercial,San Diego
+C006,commercial,Escondido
+C007,commercial,Encinitas
+C008,commercial,San Diego
+C009,commercial,Encinitas
+C010,commercial,El Cajon
+C011,commercial,San Diego
+C012,commercial,San Diego
+C013,commercial,National City
+C014,commercial,San Diego
+C015,commercial,San Diego
+C016,commercial,San Diego
+C017,commercial,Encinitas
+C018,commercial,Escondido
+C019,commercial,Encinitas
+C020,commercial,El Cajon
+C021,commercial,Oceanside
+C022,commercial,National City
+C023,commercial,San Diego
+C024,commercial,Escondido
+C025,commercial,Encinitas
+C026,commercial,Carlsbad
+C027,commercial,Santee
+C028,commercial,Escondido
+C029,commercial,El Cajon
+C030,commercial,San Diego
+C031,commercial,San Diego
+C032,commercial,San Diego
+C033,commercial,San Diego
+C034,commercial,San Diego
+C035,commercial,San Diego
+C036,commercial,San Diego
+C037,commercial,Carlsbad
+C038,commercial,San Diego
+C039,commercial,San Diego
+C040,commercial,San Diego
+C041,residential,San Diego
+C042,residential,Poway
+C043,residential,Carlsbad
+C044,residential,Escondido
+C045,residential,San Diego
+C046,residential,El Cajon
+C047,residential,San Diego
+C048,residential,San Diego
+C049,residential,National City
+C050,residential,Carlsbad
+C051,residential,Escondido
+C052,residential,El Cajon
+C053,residential,Encinitas
+C054,residential,La Mesa
+C055,residential,San Diego
+C056,residential,San Diego
+C057,residential,San Diego
+C058,residential,San Diego
+C059,residential,San Diego
+C060,residential,Poway
+C061,residential,Santee
+C062,residential,San Diego
+C063,residential,Carlsbad
+C064,residential,Chula Vista
+C065,residential,Poway
+C066,residential,Chula Vista
+C067,residential,San Diego
+C068,residential,San Diego
+C069,residential,Escondido
+C070,residential,San Diego
+C071,residential,Escondido
+C072,residential,Santee
+C073,residential,Chula Vista
+C074,residential,San Diego
+C075,residential,National City
+C076,residential,Oceanside
+C077,residential,San Diego
+C078,residential,San Diego
+C079,residential,San Diego
+C080,residential,Carlsbad
+C081,residential,La Mesa
+C082,residential,Chula Vista
+C083,residential,San Diego
+C084,residential,Chula Vista
+C085,residential,National City
+C086,residential,Oceanside
+C087,residential,National City
+C088,residential,Santee
+C089,residential,San Diego
+C090,residential,El Cajon
+C091,residential,El Cajon
+C092,residential,Oceanside
+C093,residential,San Diego
+C094,residential,Carlsbad
+C095,residential,San Diego
+C096,residential,Chula Vista
+C097,residential,Chula Vista
+C098,residential,National City
+C099,residential,Santee
+C100,residential,San Diego
+C101,residential,Oceanside
+C102,residential,San Diego
+C103,residential,Poway
+C104,residential,Santee
+C105,residential,San Diego
+C106,residential,Carlsbad
+C107,residential,Escondido
+C108,residential,San Diego
+C109,residential,La Mesa
+C110,residential,Oceanside
+C111,residential,La Mesa
+C112,residential,Oceanside
+C113,residential,San Diego
+C114,residential,San Diego
+C115,residential,San Diego
+C116,residential,Poway
+C117,residential,Santee
+C118,residential,Encinitas
+C119,residential,San Diego
+C120,residential,San Diego
+C121,residential,Santee
+C122,residential,Poway
+C123,residential,San Diego
+C124,residential,Oceanside
+C125,residential,San Diego
+C126,residential,La Mesa
+C127,residential,La Mesa
+C128,residential,San Diego
+C129,residential,Oceanside
+C130,residential,Escondido
+C131,residential,San Diego
+C132,residential,Santee
+C133,residential,Chula Vista
+C134,residential,San Diego
+C135,residential,Oceanside
+C136,residential,El Cajon
+C137,residential,San Diego
+C138,residential,San Diego
+C139,residential,National City
+C140,residential,Carlsbad
+C141,residential,Chula Vista
+C142,residential,Oceanside
+C143,residential,San Diego
+C144,residential,San Diego
+C145,residential,San Diego
+C146,residential,Escondido
+C147,residential,San Diego
+C148,residential,San Diego
+C149,residential,San Diego
+C150,residential,Carlsbad
+C151,residential,San Diego
+C152,residential,Poway
+C153,residential,Santee
+C154,residential,San Diego
+C155,residential,San Diego
+C156,residential,Carlsbad
+C157,residential,San Diego
+C158,residential,San Diego
+C159,residential,Poway
+C160,residential,Escondido
+C161,residential,Oceanside
+C162,residential,La Mesa
+C163,residential,Encinitas
+C164,residential,San Diego
+C165,residential,San Diego
+C166,residential,Chula Vista
+C167,residential,Chula Vista
+C168,residential,Chula Vista
+C169,residential,El Cajon
+C170,residential,Carlsbad
+C171,residential,National City
+C172,residential,San Diego
+C173,residential,Chula Vista
+C174,residential,San Diego
+C175,residential,Santee
+C176,residential,San Diego
+C177,residential,San Diego
+C178,residential,Chula Vista
+C179,residential,Chula Vista
+C180,residential,San Diego
+C181,residential,San Diego
+C182,residential,Poway
+C183,residential,Chula Vista
+C184,residential,Santee
+C185,residential,Escondido
+C186,residential,San Diego
+C187,residential,National City
+C188,residential,Encinitas
+C189,residential,National City
+C190,residential,Poway
+C191,residential,Encinitas
+C192,residential,San Diego
+C193,residential,Oceanside
+C194,residential,San Diego
+C195,residential,Chula Vista
+C196,residential,San Diego
+C197,residential,San Diego
+C198,residential,National City
+C199,residential,San Diego
+C200,residential,La Mesa
+C201,residential,Chula Vista
+C202,residential,Chula Vista
+C203,residential,National City
+C204,residential,National City
+C205,residential,Escondido
+C206,residential,El Cajon
+C207,residential,San Diego
+C208,residential,San Diego
+C209,residential,National City
+C210,residential,Escondido
+C211,residential,Escondido
+C212,residential,La Mesa
+C213,residential,San Diego
+C214,residential,Escondido
+C215,residential,Oceanside
+C216,residential,Santee
+C217,residential,San Diego
+C218,residential,National City
+C219,residential,San Diego
+C220,residential,San Diego
+C221,residential,Escondido
+C222,residential,Carlsbad
+C223,residential,San Diego
+C224,residential,San Diego
+C225,residential,Santee
+C226,residential,San Diego
+C227,residential,Escondido
+C228,residential,Carlsbad
+C229,residential,Chula Vista
+C230,residential,Escondido
+C231,residential,Oceanside
+C232,residential,Poway
+C233,residential,San Diego
+C234,residential,El Cajon
+C235,residential,San Diego
+C236,residential,Chula Vista
+C237,residential,Carlsbad
+C238,residential,San Diego
+C239,residential,San Diego
+C240,residential,La Mesa
+C241,residential,San Diego
+C242,residential,Chula Vista
+C243,residential,National City
+C244,residential,National City
+C245,residential,San Diego
+C246,residential,San Diego
+C247,residential,San Diego
+C248,residential,Poway
+C249,residential,Santee
+C250,residential,Santee
+C251,residential,San Diego
+C252,residential,San Diego
+C253,residential,Encinitas
+C254,residential,El Cajon
+C255,residential,Carlsbad
+C256,residential,National City
+C257,residential,Carlsbad
+C258,residential,San Diego
+C259,residential,Encinitas
+C260,residential,San Diego
+C261,residential,Carlsbad
+C262,residential,Poway
+C263,residential,San Diego
+C264,residential,San Diego
+C265,residential,San Diego
+C266,residential,Escondido
+C267,residential,San Diego
+C268,residential,Escondido
+C269,residential,El Cajon
+C270,residential,San Diego
+C271,residential,Carlsbad
+C272,residential,San Diego
+C273,residential,Oceanside
+C274,residential,Poway
+C275,residential,Encinitas
+C276,residential,San Diego
+C277,residential,Chula Vista
+C278,residential,San Diego
+C279,residential,San Diego
+C280,residential,La Mesa
+C281,residential,Carlsbad
+C282,residential,San Diego
+C283,residential,La Mesa
+C284,residential,Escondido
+C285,residential,Chula Vista
+C286,residential,San Diego
+C287,residential,San Diego
+C288,residential,Santee
+C289,residential,Poway
+C290,residential,Escondido
+C291,residential,Encinitas
+C292,residential,Escondido
+C293,residential,San Diego
+C294,residential,San Diego
+C295,residential,San Diego
+C296,residential,Santee
+C297,residential,La Mesa
+C298,residential,Santee
+C299,residential,Santee
+C300,residential,San Diego
+C301,residential,San Diego
+C302,residential,San Diego
+C303,residential,La Mesa
+C304,residential,Santee
+C305,residential,Chula Vista
+C306,residential,Carlsbad
+C307,residential,San Diego
+C308,residential,Poway
+C309,residential,Santee
+C310,residential,National City
+C311,residential,Encinitas
+C312,residential,Santee
+C313,residential,San Diego
+C314,residential,El Cajon
+C315,residential,San Diego
+C316,residential,Poway
+C317,residential,Encinitas
+C318,residential,Santee
+C319,residential,Encinitas
+C320,residential,San Diego
+C321,residential,La Mesa
+C322,residential,San Diego
+C323,residential,Santee
+C324,residential,Santee
+C325,residential,San Diego
+C326,residential,Encinitas
+C327,residential,Chula Vista
+C328,residential,San Diego
+C329,residential,La Mesa
+C330,residential,San Diego
+C331,residential,San Diego
+C332,residential,San Diego
+C333,residential,San Diego
+C334,residential,Santee
+C335,residential,National City
+C336,residential,San Diego
+C337,residential,Carlsbad
+C338,residential,Chula Vista
+C339,residential,National City
+C340,residential,Oceanside
+C341,residential,Poway
+C342,residential,San Diego
+C343,residential,National City
+C344,residential,San Diego
+C345,residential,National City
+C346,residential,San Diego
+C347,residential,San Diego
+C348,residential,Chula Vista
+C349,residential,El Cajon
+C350,residential,San Diego
+C351,residential,Escondido
+C352,residential,Oceanside
+C353,residential,Chula Vista
+C354,residential,Escondido
+C355,residential,San Diego
+C356,residential,El Cajon
+C357,residential,San Diego
+C358,residential,Poway
+C359,residential,Oceanside
+C360,residential,El Cajon
+C361,residential,La Mesa
+C362,residential,Carlsbad
+C363,residential,San Diego
+C364,residential,San Diego
+C365,residential,Carlsbad
+C366,residential,San Diego
+C367,residential,San Diego
+C368,residential,Encinitas
+C369,residential,El Cajon
+C370,residential,San Diego
+C371,residential,San Diego
+C372,residential,Chula Vista
+C373,residential,Chula Vista
+C374,residential,San Diego
+C375,residential,San Diego
+C376,residential,Chula Vista
+C377,residential,Poway
+C378,residential,Carlsbad
+C379,residential,Poway
+C380,residential,Carlsbad
+C381,residential,San Diego
+C382,residential,Escondido
+C383,residential,San Diego
+C384,residential,San Diego
+C385,residential,Chula Vista
+C386,residential,Escondido
+C387,residential,Carlsbad
+C388,residential,Chula Vista
+C389,residential,Chula Vista
+C390,residential,San Diego
+C391,residential,Oceanside
+C392,residential,Poway
+C393,residential,La Mesa
+C394,residential,San Diego
+C395,residential,San Diego
+C396,residential,Oceanside
+C397,residential,Carlsbad
+C398,residential,San Diego
+C399,residential,Encinitas
+C400,residential,La Mesa
+C401,residential,Carlsbad
+C402,residential,San Diego
+C403,residential,San Diego
+C404,residential,San Diego
+C405,residential,San Diego
+C406,residential,Oceanside
+C407,residential,Encinitas
+C408,residential,San Diego
+C409,residential,Chula Vista
+C410,residential,Carlsbad
+C411,residential,San Diego
+C412,residential,El Cajon
+C413,residential,Oceanside
+C414,residential,San Diego
+C415,residential,Carlsbad
+C416,residential,San Diego
+C417,residential,La Mesa
+C418,residential,La Mesa
+C419,residential,San Diego
+C420,residential,Chula Vista
+C421,residential,San Diego
+C422,residential,National City
+C423,residential,Oceanside
+C424,residential,San Diego
+C425,residential,San Diego
+C426,residential,Encinitas
+C427,residential,Chula Vista
+C428,residential,Encinitas
+C429,residential,Carlsbad
+C430,residential,National City
+C431,residential,Escondido
+C432,residential,National City
+C433,residential,Santee
+C434,residential,Carlsbad
+C435,residential,El Cajon
+C436,residential,Oceanside
+C437,residential,Encinitas
+C438,residential,Escondido
+C439,residential,Santee
+C440,residential,La Mesa
+C441,residential,Oceanside
+C442,residential,San Diego
+C443,residential,San Diego
+C444,residential,Carlsbad
+C445,residential,La Mesa
+C446,residential,Oceanside
+C447,residential,Carlsbad
+C448,residential,San Diego
+C449,residential,San Diego
+C450,residential,San Diego
+C451,residential,San Diego
+C452,residential,San Diego
+C453,residential,Escondido
+C454,residential,San Diego
+C455,residential,San Diego
+C456,residential,El Cajon
+C457,residential,El Cajon
+C458,residential,San Diego
+C459,residential,Chula Vista
+C460,residential,Escondido
+C461,residential,Chula Vista
+C462,residential,San Diego
+C463,residential,Chula Vista
+C464,residential,Poway
+C465,residential,Escondido
+C466,residential,El Cajon
+C467,residential,Santee
+C468,residential,La Mesa
+C469,residential,Chula Vista
+C470,residential,San Diego
+C471,residential,San Diego
+C472,residential,La Mesa
+C473,residential,Santee
+C474,residential,National City
+C475,residential,Chula Vista
+C476,residential,La Mesa
+C477,residential,Escondido
+C478,residential,Escondido
+C479,residential,San Diego
+C480,residential,San Diego
+C481,residential,Chula Vista
+C482,residential,San Diego
+C483,residential,San Diego
+C484,residential,Carlsbad
+C485,residential,Chula Vista
+C486,residential,San Diego
+C487,residential,Chula Vista
+C488,residential,San Diego
+C489,residential,Carlsbad
+C490,residential,San Diego
+C491,residential,Chula Vista
+C492,residential,Escondido
+C493,residential,San Diego
+C494,residential,Carlsbad
+C495,residential,San Diego
+C496,residential,Chula Vista
+C497,residential,San Diego
+C498,residential,San Diego
+C499,residential,San Diego
+C500,residential,San Diego
+C501,residential,La Mesa
+C502,residential,San Diego
+C503,residential,La Mesa
+C504,residential,Encinitas
+C505,residential,San Diego
+C506,residential,San Diego
+C507,residential,San Diego
+C508,residential,Oceanside
+C509,residential,National City
+C510,residential,San Diego
+C511,residential,Carlsbad
+C512,residential,La Mesa
+C513,residential,Carlsbad
+C514,residential,La Mesa
+C515,residential,Poway
+C516,residential,San Diego
+C517,residential,San Diego
+C518,residential,San Diego
+C519,residential,San Diego
+C520,residential,Carlsbad
+C521,residential,Escondido
+C522,residential,San Diego
+C523,residential,El Cajon
+C524,residential,La Mesa
+C525,residential,San Diego
+C526,residential,Escondido
+C527,residential,La Mesa
+C528,residential,San Diego
+C529,residential,Encinitas
+C530,residential,National City
+C531,residential,San Diego
+C532,residential,San Diego
+C533,residential,San Diego
+C534,residential,Carlsbad
+C535,residential,National City
+C536,residential,Chula Vista
+C537,residential,El Cajon
+C538,residential,San Diego
+C539,residential,El Cajon
+C540,residential,Carlsbad
+C541,residential,San Diego
+C542,residential,La Mesa
+C543,residential,Santee
+C544,residential,Escondido
+C545,residential,San Diego
+C546,residential,National City
+C547,residential,La Mesa
+C548,residential,San Diego
+C549,residential,Chula Vista
+C550,residential,San Diego
+C551,residential,Oceanside
+C552,residential,San Diego
+C553,residential,Encinitas
+C554,residential,Encinitas
+C555,residential,San Diego
+C556,residential,National City
+C557,residential,Carlsbad
+C558,residential,Encinitas
+C559,residential,El Cajon
+C560,residential,Chula Vista
+C561,residential,El Cajon
+C562,residential,National City
+C563,residential,San Diego
+C564,residential,Encinitas
+C565,residential,Oceanside
+C566,residential,Oceanside
+C567,residential,Chula Vista
+C568,residential,El Cajon
+C569,residential,San Diego
+C570,residential,Santee
+C571,residential,Encinitas
+C572,residential,San Diego
+C573,residential,Santee
+C574,residential,San Diego
+C575,residential,Chula Vista
+C576,residential,Carlsbad
+C577,residential,San Diego
+C578,residential,San Diego
+C579,residential,Santee
+C580,residential,San Diego
+C581,residential,San Diego
+C582,residential,La Mesa
+C583,residential,San Diego
+C584,residential,Santee
+C585,residential,El Cajon
+C586,residential,San Diego
+C587,residential,San Diego
+C588,residential,Poway
+C589,residential,San Diego
+C590,residential,El Cajon
+C591,residential,Oceanside
+C592,residential,La Mesa
+C593,residential,El Cajon
+C594,residential,Carlsbad
+C595,residential,Oceanside
+C596,residential,La Mesa
+C597,residential,San Diego
+C598,residential,San Diego
+C599,residential,El Cajon
+C600,residential,San Diego
+C601,residential,Escondido
+C602,residential,Oceanside
+C603,residential,Oceanside
+C604,residential,Chula Vista
+C605,residential,La Mesa
+C606,residential,San Diego
+C607,residential,El Cajon
+C608,residential,San Diego
+C609,residential,San Diego
+C610,residential,San Diego
+C611,residential,San Diego
+C612,residential,San Diego
+C613,residential,Oceanside
+C614,residential,La Mesa
+C615,residential,San Diego
+C616,residential,San Diego
+C617,residential,Oceanside
+C618,residential,El Cajon
+C619,residential,National City
+C620,residential,Oceanside
+C621,residential,San Diego
+C622,residential,San Diego
+C623,residential,San Diego
+C624,residential,San Diego
+C625,residential,San Diego
+C626,residential,San Diego
+C627,residential,Oceanside
+C628,residential,San Diego
+C629,residential,National City
+C630,residential,Escondido
+C631,residential,El Cajon
+C632,residential,San Diego
+C633,residential,Santee
+C634,residential,Oceanside
+C635,residential,Santee
+C636,residential,Escondido
+C637,residential,Chula Vista
+C638,residential,Chula Vista
+C639,residential,San Diego
+C640,residential,San Diego
+C641,residential,Poway
+C642,residential,Oceanside
+C643,residential,Encinitas
+C644,residential,Chula Vista
+C645,residential,San Diego
+C646,residential,Carlsbad
+C647,residential,San Diego
+C648,residential,San Diego
+C649,residential,Escondido
+C650,residential,San Diego
+C651,residential,National City
+C652,residential,San Diego
+C653,residential,La Mesa
+C654,residential,Escondido
+C655,residential,La Mesa
+C656,residential,San Diego
+C657,residential,Oceanside
+C658,residential,Chula Vista
+C659,residential,Chula Vista
+C660,residential,Santee
+C661,residential,National City
+C662,residential,San Diego
+C663,residential,Carlsbad
+C664,residential,Escondido
+C665,residential,La Mesa
+C666,residential,Poway
+C667,residential,San Diego
+C668,residential,San Diego
+C669,residential,Carlsbad
+C670,residential,San Diego
+C671,residential,San Diego
+C672,residential,San Diego
+C673,residential,San Diego
+C674,residential,Chula Vista
+C675,residential,Escondido
+C676,residential,San Diego
+C677,residential,San Diego
+C678,residential,El Cajon
+C679,residential,El Cajon
+C680,residential,Chula Vista
+C681,residential,El Cajon
+C682,residential,Poway
+C683,residential,La Mesa
+C684,residential,Carlsbad
+C685,residential,Carlsbad
+C686,residential,Poway
+C687,residential,Chula Vista
+C688,residential,Escondido
+C689,residential,Carlsbad
+C690,residential,Poway
+C691,residential,Encinitas
+C692,residential,San Diego
+C693,residential,San Diego
+C694,residential,San Diego
+C695,residential,La Mesa
+C696,residential,Escondido
+C697,residential,San Diego
+C698,residential,San Diego
+C699,residential,El Cajon
+C700,residential,El Cajon
+C701,residential,Poway
+C702,residential,Oceanside
+C703,residential,Oceanside
+C704,residential,San Diego
+C705,residential,San Diego
+C706,residential,Chula Vista
+C707,residential,San Diego
+C708,residential,San Diego
+C709,residential,San Diego
+C710,residential,National City
+C711,residential,Encinitas
+C712,residential,Escondido
+C713,residential,National City
+C714,residential,National City
+C715,residential,Carlsbad
+C716,residential,San Diego
+C717,residential,San Diego
+C718,residential,La Mesa
+C719,residential,Oceanside
+C720,residential,Carlsbad
+C721,residential,Poway
+C722,residential,San Diego
+C723,residential,Escondido
+C724,residential,Carlsbad
+C725,residential,Oceanside
+C726,residential,San Diego
+C727,residential,San Diego
+C728,residential,San Diego
+C729,residential,Carlsbad
+C730,residential,Santee
+C731,residential,San Diego
+C732,residential,El Cajon
+C733,residential,San Diego
+C734,residential,Poway
+C735,residential,Encinitas
+C736,residential,Escondido
+C737,residential,Chula Vista
+C738,residential,San Diego
+C739,residential,San Diego
+C740,residential,National City
+C741,residential,Chula Vista
+C742,residential,Oceanside
+C743,residential,National City
+C744,residential,Carlsbad
+C745,residential,Escondido
+C746,residential,Chula Vista
+C747,residential,San Diego
+C748,residential,San Diego
+C749,residential,La Mesa
+C750,residential,Carlsbad
+C751,residential,La Mesa
+C752,residential,San Diego
+C753,residential,Escondido
+C754,residential,Poway
+C755,residential,Chula Vista
+C756,residential,El Cajon
+C757,residential,San Diego
+C758,residential,National City
+C759,residential,Escondido
+C760,residential,San Diego
+C761,residential,San Diego
+C762,residential,Escondido
+C763,residential,Escondido
+C764,residential,San Diego
+C765,residential,National City
+C766,residential,Poway
+C767,residential,Chula Vista
+C768,residential,San Diego
+C769,residential,Encinitas
+C770,residential,Oceanside
+C771,residential,El Cajon
+C772,residential,Oceanside
+C773,residential,San Diego
+C774,residential,Encinitas
+C775,residential,National City
+C776,residential,San Diego
+C777,residential,Escondido
+C778,residential,Chula Vista
+C779,residential,Poway
+C780,residential,Oceanside
+C781,residential,Santee
+C782,residential,Santee
+C783,residential,San Diego
+C784,residential,La Mesa
+C785,residential,Chula Vista
+C786,residential,Poway
+C787,residential,Oceanside
+C788,residential,Encinitas
+C789,residential,San Diego
+C790,residential,San Diego
+C791,residential,Escondido
+C792,residential,National City
+C793,residential,Oceanside
+C794,residential,San Diego
+C795,residential,Oceanside
+C796,residential,San Diego
+C797,residential,Escondido
+C798,residential,Escondido
+C799,residential,Chula Vista
+C800,residential,San Diego

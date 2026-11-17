@@ -1,0 +1,6 @@
+# real / private data never goes public
+data/raw/
+private/
+*.db
+output/
+__pycache__/
